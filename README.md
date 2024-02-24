@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://gladstone28.github.io/four-card-feature-section-FEM/)
-- Live Site URL: [Add live site URL here](https://github.com/gladstone28/four-card-feature-section-FEM/blob/fem-branch/index.html)
+- Live Site URL: [Add solution URL here](https://gladstone28.github.io/four-card-feature-section-FEM/)
+- Solution URL: [Add live site URL here](https://github.com/gladstone28/four-card-feature-section-FEM/blob/fem-branch/index.html)
 
 ## My process
 
